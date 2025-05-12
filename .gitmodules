@@ -1,0 +1,4 @@
+[submodule "3rdparty/lattice-mico32-lm32-releases"]
+	path = 3rdparty/lm32-releases
+	url = https://github.com/jevinskie/lattice-mico32-lm32-releases
+	branch = jev/main-step-by-step
